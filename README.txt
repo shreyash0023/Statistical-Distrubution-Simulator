@@ -1,7 +1,4 @@
-Name: Shreyash Shrivastava
-ID: 1001397477
-Class: CSE 5301
-
+--------------------------
 Programming Language Used: Python 2.7.15 :: Anaconda, Inc.
 --------------------------
 
